@@ -7,7 +7,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Mpesa API - Start',
   description: 'Para desenveolvedores iniciantes',
-  generator: 'v0.app',
 }
 
 export default function RootLayout({

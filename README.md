@@ -1,5 +1,5 @@
 ---
-title: "Backends para APIs de Pagamentos M-Pesa"
+Title: "Backends para APIs de Pagamentos M-Pesa"
 ---
 
 A integração com **APIs de pagamento**, especialmente a do **M-Pesa**, é uma das etapas mais desafiadoras para muitos programadores iniciantes em Moçambique. Embora a documentação do serviço ofereça uma visão geral, a implementação prática muitas vezes se transforma num verdadeiro teste de paciência — entre certificados SSL, chaves públicas e privadas, endpoints inconsistentes e autenticações complexas.
